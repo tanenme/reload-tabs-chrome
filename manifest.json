@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Reload Otomatis",
+    "version": "1.0",
+    "description": "Ekstensi untuk me-reload semua tab secara berkala",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "tabs"]
+  }
